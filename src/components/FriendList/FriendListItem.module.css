@@ -1,0 +1,10 @@
+.statusTrue {
+  background-color: blue;
+}
+.statusFalse {
+  background-color: red;
+}
+.item {
+  list-style: none;
+  display: inline-block;
+}
